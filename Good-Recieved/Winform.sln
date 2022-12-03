@@ -5,8 +5,11 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winform", "Winform\Winform.csproj", "{D36B9BCA-FC74-41E8-A291-FA6D3EBB247F}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders-Status", "Orders-Status\Orders-Status.csproj", "{0D69E016-C308-43A5-8709-303C87EC7F91}"
 EndProject
+=======
+>>>>>>> 601474d6ca80ba3d69ac0b54fe30bc64ab8878a5
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +20,13 @@ Global
 		{D36B9BCA-FC74-41E8-A291-FA6D3EBB247F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D36B9BCA-FC74-41E8-A291-FA6D3EBB247F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D36B9BCA-FC74-41E8-A291-FA6D3EBB247F}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{0D69E016-C308-43A5-8709-303C87EC7F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0D69E016-C308-43A5-8709-303C87EC7F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D69E016-C308-43A5-8709-303C87EC7F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D69E016-C308-43A5-8709-303C87EC7F91}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 601474d6ca80ba3d69ac0b54fe30bc64ab8878a5
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
