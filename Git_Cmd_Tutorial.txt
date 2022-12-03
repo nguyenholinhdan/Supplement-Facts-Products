@@ -1,0 +1,20 @@
+*** Clone project
+ git clone "nguyenholinhdan/Supplement-Facts-Products"
+
+
+*** Thiết lập Git
+
+1. git config --global user.email "(email của m nha cml)"
+2. git config --global user.name "Dan e"
+
+
+*** Tạo branch (nhánh) mới
+1. git checkout master
+2. git pull
+3. git checkout -b tên-nhánh (vd git checkout -b build-winform)
+
+
+*** Push code
+1. git add .
+2. git commit -m "build-winform"
+3. git branch --set-upstream-to origin/build-winform (lần đầu) => lần sau: git push
